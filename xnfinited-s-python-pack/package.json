@@ -1,0 +1,29 @@
+{
+    "name": "xnfinited-python-pack",
+    "publisher": "xnfinited",
+    "displayName": "xnfinited's python pack",
+    "description": "My best suit extensions",
+    "version": "0.0.6",
+    "engines": {
+        "vscode": "^1.53.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [ 
+        "ms-python.python",
+        "esbenp.prettier-vscode",
+        "christian-kohler.path-intellisense",
+        "dotjoshjohnson.xml",
+        "davidanson.vscode-markdownlint",
+        "streetsidesoftware.code-spell-checker",
+        "aaron-bond.better-comments",
+        "mhutchie.git-graph",
+        "njpwerner.autodocstring",
+        "ibm.output-colorizer",
+        "piotrpalarz.vscode-gitignore-generator",
+        "littlefoxteam.vscode-python-test-adapter",
+        "mgesbert.python-path",
+        "ms-python.vscode-pylance"
+    ]
+}
